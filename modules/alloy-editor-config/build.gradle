@@ -1,0 +1,9 @@
+dependencies {
+	compileOnly group: "com.liferay", name: "com.liferay.frontend.editor.taglib"
+	compileOnly group: "com.liferay", name: "com.liferay.frontend.taglib"
+	compileOnly group: "com.liferay", name: "com.liferay.frontend.taglib.clay"
+	compileOnly group: "com.liferay", name: "com.liferay.frontend.taglib.soy"
+	compileOnly group: "com.liferay.portal", name: "com.liferay.portal.impl"
+	compileOnly group: "com.liferay.portal", name: "com.liferay.util.taglib"
+	compileOnly group: "com.liferay.portal", name: "release.dxp.api"
+}
